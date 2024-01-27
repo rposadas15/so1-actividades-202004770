@@ -1,1 +1,3 @@
-# so1-actividades-202004770
+# Ronaldo Javier Posadas Guerra
+# 202004770
+# Sistemas Operativos 1 - Primer Semestre 2024
